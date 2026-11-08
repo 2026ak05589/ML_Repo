@@ -1,0 +1,6 @@
+BEFORE SUBMISSION
+1. Replace the GitHub URL placeholder in README.md and in the submission PDF with your actual public repository URL.
+2. Deploy app.py from that repository on Streamlit Community Cloud, test the live app, and replace the Streamlit URL placeholder.
+3. Run the assignment on BITS Virtual Lab and insert your genuine screenshot into the PDF.
+4. Export/print the final README.md to PDF or regenerate the submission PDF after replacing links and adding the screenshot.
+5. Review the code and results so you can explain the work. The assignment document says AI is for learning support, not direct copy-paste submissions.
